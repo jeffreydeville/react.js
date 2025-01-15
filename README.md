@@ -1,8 +1,15 @@
-# React + Vite
+# Todo List avec React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce projet est une première tentative de développement avec **React**. Il s'agit d'une application de **Todo List** basique permettant d'ajouter, supprimer et modifier des éléments de la liste. L'application est encore en développement et ne possède que les fonctionnalités de base.
 
-Currently, two official plugins are available:
+## Fonctionnalités
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Ajouter une tâche** : Permet d'ajouter une nouvelle tâche à la liste.
+- **Supprimer une tâche** : Vous pouvez supprimer une tâche de la liste.
+- **Modifier une tâche** : Permet de modifier une tâche existante.
+
+## Installation
+
+1. Clonez ce projet sur votre machine locale :
+   ```bash
+   git clone https://github.com/votre-utilisateur/todo-list-react.git
